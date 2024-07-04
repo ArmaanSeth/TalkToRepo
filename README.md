@@ -2,6 +2,9 @@
 
 TalkToRepo is an application designed to help users interact with GitHub repositories using natural language queries. It leverages the power of generative AI and vector search to provide detailed and accurate responses about the contents of a repository.
 
+![image](https://github.com/ArmaanSeth/TalkToRepo/assets/99117431/53b26807-decc-4dfd-934b-8addb8080d4a)
+
+
 ## Features
 
 - **Interactive Querying**: Ask questions about the code and get detailed answers.
